@@ -1,12 +1,6 @@
-/// I have yo give you a Name
+# DestroyTheWorld
+I want to build an app that effectively destroy the world
 
+### Come on
 
-Now I will give you a name 
-
-
-
-I am changing
-
-I am changing
-
-I am still changing
+### Ok I am Changing Now
